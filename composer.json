@@ -1,0 +1,19 @@
+{
+    "name": "LRouter",
+    "description": "Basic router",
+    "license": "MIT",
+    "keywords": ["lrouter"],
+    "authors": [
+        {
+            "name": "Levi Jackson",
+            "email": "aerosox@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "LRouter\\": "src"
+        }
+    }
+}
