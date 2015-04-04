@@ -1,8 +1,6 @@
 # LRouter
 ## Version: 0.1
 ===
-Simple PHP router.
-===
 ###Usage
 ```php
 <?php
